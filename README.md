@@ -56,7 +56,6 @@ The solution was designed to answer key business questions relevant to ecommerce
 - Data Modeling
 - Hybrid Star Schema Design
 
-
 ### Business Intelligence & Analytics
 - Power BI Dashboard Development
 - DAX Development
@@ -64,12 +63,10 @@ The solution was designed to answer key business questions relevant to ecommerce
 - Time Intelligence (YoY, MoM, QoQ, YTD)
 - Data Visualization
 
-
 ### Performance & Deployment
 - Performance Optimization
 - DAX Studio Validation
 - Power BI Service Deployment
-
 
 ### Business & Strategic Analysis
 - Business Analysis
@@ -113,20 +110,18 @@ The following diagram illustrates the end-to-end data pipeline, from raw data in
 
 ## Data Sources
 The solution integrates data from multiple ecommerce data sources:
-
 - Amazon Sales exports
 - Amazon Advertising exports
 - Meta Advertising exports
 
 To demonstrate the data structure and reporting workflow, a subset of source files is included in this repository:
-
 - 3 Amazon Sales sample files
 - 3 Amazon Advertising sample files
 - 1 Meta Advertising sample file
 
 Raw files are provided for educational and portfolio purposes. Brand-specific identifiers have been excluded from the published project.
 
-Additional source files are available via Google Drive: https://drive.google.com/drive/folders/1AND9cY_Zr5OKwUMH2Q_f9Ml89IDLZYZD?usp=sharing
+Additional source files are available via [Google Drive]( https://drive.google.com/drive/folders/1AND9cY_Zr5OKwUMH2Q_f9Ml89IDLZYZD?usp=sharing)
 
 ## Power Query ETL
 Power Query was used to automate data ingestion, cleansing, and transformation before loading data into the SQL staging layer.
@@ -156,7 +151,6 @@ The following screenshots illustrate the Power Query implementation and transfor
 Power Query M code used in the project is available in the `m_code` folder. 
   
 ### ETL Workflow
-
 ```text
 Folder with Monthly CSV Files 
              ↓ 
@@ -170,9 +164,7 @@ Folder with Monthly CSV Files
              ↓ 
        Clean Dataset 
 ```
-
 ### Key Transformations
-
 - Standardized column names and schemas across source files.
 - Applied data type validation and conversion.
 - Added source system metadata for data lineage tracking.
@@ -180,11 +172,9 @@ Folder with Monthly CSV Files
 - Created clean staging datasets for SQL Server loading.
 
 ### Output
-
 Data from Amazon Sales, Amazon Ads, and Meta Ads reports was transformed in Power Query and exported as staging CSV files:
-
-- `stg_amazon_sales`
-- `stg_amazon_ads`
-- `stg_meta_ads`
+- [stg_amazon_sales](./4_staging_data/stg_amazon_sales.csv)
+- [stg_amazon_ads](./4_staging_data/stg_meta_ads.csv)
+- [stg_meta_ads](./4_staging_data/stg_meta_ads.csv)
 
 These staging datasets were subsequently loaded into SQL Server and served as the foundation for dimensional modeling, Hybrid Star Schema design, and Power BI reporting.
