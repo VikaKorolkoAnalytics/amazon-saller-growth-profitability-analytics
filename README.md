@@ -180,3 +180,44 @@ Data from Amazon Sales, Amazon Ads, and Meta Ads reports was transformed in Powe
 Additional information and access to the staging datasets are available in the [Staging data](./4_staging_data/staging_data.md).
 
 These staging datasets were subsequently loaded into SQL Server and served as the foundation for dimensional modeling, Hybrid Star Schema design, and Power BI reporting.
+
+## SQL Data Modeling
+SQL Server was used to implement the staging layer, dimensional model, fact tables, and incremental loading process.
+
+### SQL Workflow
+```text
+Power Query Staging Files
+        	↓
+  	SQL Staging Layer
+        	↓
+Dimension & Mapping Tables
+        	↓
+    	Fact Tables
+        	↓
+    Hybrid Star Schema
+        	↓
+  	   Power BI Model
+```
+### Data Modeling Process
+- Created SQL staging tables for Amazon Sales, Amazon Ads, and Meta Ads datasets.
+- Performed data validation after each load, including row counts, data type verification, NULL checks, and duplicate detection.
+- Built dimension and mapping tables for Products, Locations, Campaigns, and States.
+- Generated the Date Dimension to support Time Intelligence calculations.
+- Created fact tables for Sales, Returns, Amazon Ads, and Meta Ads.
+- Implemented referential integrity through dimensional modeling and surrogate keys.
+- Performed post-load validation and reconciliation between staging and fact tables.
+
+### Data Refresh Strategy
+The solution supports incremental monthly updates without reloading the entire dataset.
+
+- New monthly source files are automatically processed through existing Power Query transformations.
+- Clean staging files are loaded into SQL Server.
+- New dimension members are inserted when required.
+- New fact records are loaded only when they do not already exist.
+- Duplicate prevention is implemented using NOT EXISTS validation logic.
+- Source file tracking is maintained through the `source_file` attribute to support auditability and data lineage.
+
+### SQL Documentation
+- [SQL Staging Layer](./5_sql_scripts/1_staging/staging.md)
+- [Data Modeling & Fact Table Design](./5_sql_scripts/2_data_modeling/data_modeling.md)
+- [Incremental Load Process](./5_sql_scripts/3_incremental_load/incremental_load.md)
