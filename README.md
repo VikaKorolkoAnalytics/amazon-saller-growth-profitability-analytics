@@ -110,3 +110,20 @@ The following diagram illustrates the end-to-end data pipeline, from raw data in
 - Hybrid Star Schema model implemented to support scalable analytical reporting.
 - Power BI Semantic Model contains reusable DAX measures, KPI calculations, and Time Intelligence logic.
 - Report deployed to Power BI Service using Import Mode.
+
+## Data Sources
+The solution integrates data from multiple ecommerce data sources:
+
+- Amazon Sales exports
+- Amazon Advertising exports
+- Meta Advertising exports
+
+To demonstrate the data structure and reporting workflow, a subset of source files is included in this repository:
+
+- 3 Amazon Sales sample files
+- 3 Amazon Advertising sample files
+- 1 Meta Advertising sample file
+
+Raw files are provided for educational and portfolio purposes. Brand-specific identifiers have been excluded from the published project.
+
+Additional source files are available via Google Drive: https://drive.google.com/drive/folders/1AND9cY_Zr5OKwUMH2Q_f9Ml89IDLZYZD?usp=sharing
