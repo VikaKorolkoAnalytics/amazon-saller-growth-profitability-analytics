@@ -1,0 +1,374 @@
+date/time,type,order id,sku,description,quantity,order city,order state,product sales,selling fees,fba fees
+"March 1, 2024",Order,190-4538896-9060145,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,New York,NY,54.9,-8.24,-11.5
+"March 1, 2024",Order,254-2659758-1666803,32-IQYL-UHAB,Car Seat for Dog-Black,1,Jacksonville,FL,54.9,-8.24,-8.15
+"March 1, 2024",Order,323-8862500-2808611,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Rochester,NY,54.9,-8.24,-8.15
+"March 1, 2024",Order,446-9490822-8966480,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,New York,NY,54.9,-8.24,-12.65
+"March 1, 2024",Order,354-8433528-5359472,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,San Antonio,TX,54.9,-8.24,-8.15
+"March 1, 2024",Order,486-2782692-4034469,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Rochester,NY,54.9,-8.24,-12.27
+"March 1, 2024",Order,529-9290103-2020557,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Miami,FL,54.9,-8.24,-8.15
+"March 1, 2024",Order,339-8627902-6891208,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Seattle,WA,54.9,-8.24,-12.65
+"March 1, 2024",Refund,355-1665553-8621776,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,New York,NY,-54.9,8.24,0
+"March 2, 2024",Order,703-9790986-6619866,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Jose,CA,54.9,-8.24,-11.5
+"March 2, 2024",Order,847-5082356-9208517,32-IQYL-UHAB,Car Seat for Dog-Black,1,San Diego,CA,54.9,-8.24,-8.15
+"March 2, 2024",Order,365-1416125-2417025,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Miami,FL,54.9,-8.24,-12.65
+"March 2, 2024",Order,182-3859454-8641957,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Buffalo,NY,54.9,-8.24,-12.65
+"March 2, 2024",Order,927-8919709-2724236,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Rochester,NY,54.9,-8.24,-12.27
+"March 2, 2024",Order,385-1610647-5508674,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Tampa,FL,54.9,-8.24,-12.65
+"March 2, 2024",Order,117-8628984-6735436,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Denver,CO,54.9,-8.24,-11.5
+"March 3, 2024",Refund,927-8919709-2724236,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Rochester,NY,-54.9,8.24,0
+"March 3, 2024",Order,829-1970833-1384423,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Los Angeles,CA,54.9,-8.24,-12.65
+"March 3, 2024",Order,183-7627242-1684586,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Diego,CA,54.9,-8.24,-11.5
+"March 3, 2024",Order,266-1640758-8089152,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Denver,CO,54.9,-8.24,-11.5
+"March 3, 2024",Order,548-4168505-1680943,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Chicago,IL,54.9,-8.24,-12.27
+"March 3, 2024",Order,378-8426838-6653905,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,San Diego,CA,54.9,-8.24,-12.27
+"March 3, 2024",Order,529-3717934-8223720,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Buffalo,NY,54.9,-8.24,-11.5
+"March 3, 2024",Order,737-3884342-5482823,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Chicago,IL,54.9,-8.24,-8.15
+"March 3, 2024",Order,824-8661830-7669989,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Dallas,TX,54.9,-8.24,-12.27
+"March 3, 2024",Order,833-9910436-4783994,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Seattle,WA,54.9,-8.24,-11.5
+"March 3, 2024",Order,499-3691943-5428695,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Phoenix,AZ,54.9,-8.24,-8.15
+"March 3, 2024",Order,595-2854142-4684423,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Houston,TX,54.9,-8.24,-11.5
+"March 3, 2024",Order,662-8856795-1419155,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Diego,CA,54.9,-8.24,-11.5
+"March 3, 2024",Order,312-6968578-8345603,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Spokane,WA,54.9,-8.24,-11.5
+"March 3, 2024",Order,498-5866051-2386078,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Chicago,IL,54.9,-8.24,-11.5
+"March 3, 2024",Order,541-8312036-5471710,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Seattle,WA,54.9,-8.24,-11.5
+"March 3, 2024",Refund,175-5645999-4442959,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Jose,CA,-54.9,8.24,0
+"March 4, 2024",Order,485-2128715-6333883,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Denver,CO,54.9,-8.24,-12.27
+"March 4, 2024",Order,961-2922476-9916747,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Denver,CO,54.9,-8.24,-11.5
+"March 4, 2024",Order,741-3710145-4410979,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Seattle,WA,54.9,-8.24,-11.5
+"March 4, 2024",Order,600-6886318-1571889,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Los Angeles,CA,54.9,-8.24,-12.27
+"March 4, 2024",Order,505-8443451-9559004,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Jacksonville,FL,54.9,-8.24,-12.27
+"March 4, 2024",Order,448-2361120-1919450,32-IQYL-UHAB,Car Seat for Dog-Black,1,Denver,CO,54.9,-8.24,-8.15
+"March 4, 2024",Order,280-2523946-1136935,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Los Angeles,CA,54.9,-8.24,-11.5
+"March 4, 2024",Order,830-9577273-5552279,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Seattle,WA,54.9,-8.24,-12.27
+"March 4, 2024",Order,989-2768082-7631891,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,San Jose,CA,54.9,-8.24,-12.65
+"March 4, 2024",Order,718-1445432-7351169,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Austin,TX,54.9,-8.24,-12.27
+"March 4, 2024",Order,117-8367163-6321901,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Phoenix,AZ,54.9,-8.24,-12.27
+"March 5, 2024",Order,905-7577256-1858845,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Naperville,IL,54.9,-8.24,-12.27
+"March 5, 2024",Order,199-8105752-7814602,32-IQYL-UHAB,Car Seat for Dog-Black,1,Spokane,WA,54.9,-8.24,-8.15
+"March 5, 2024",Order,893-7852742-6842477,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Chicago,IL,54.9,-8.24,-11.5
+"March 5, 2024",Order,392-9664203-7894383,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,San Diego,CA,54.9,-8.24,-12.65
+"March 5, 2024",Order,696-5300251-1585857,32-IQYL-UHAB,Car Seat for Dog-Black,1,San Antonio,TX,54.9,-8.24,-8.15
+"March 5, 2024",Order,249-6435720-3858664,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Rochester,NY,54.9,-8.24,-12.65
+"March 5, 2024",Order,779-3107385-9444480,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,San Diego,CA,54.9,-8.24,-12.65
+"March 5, 2024",Order,366-7573757-9206987,32-IQYL-UHAB,Car Seat for Dog-Black,1,Tucson,AZ,54.9,-8.24,-8.15
+"March 5, 2024",Order,748-5510298-7513210,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Houston,TX,54.9,-8.24,-11.5
+"March 5, 2024",Order,787-2792907-8851086,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Tampa,FL,54.9,-8.24,-8.15
+"March 5, 2024",Order,210-2619274-1628201,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Los Angeles,CA,54.9,-8.24,-12.27
+"March 5, 2024",Order,455-2913348-1839027,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Colorado Springs,CO,54.9,-8.24,-12.65
+"March 5, 2024",Order,941-4749521-3671466,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Jacksonville,FL,54.9,-8.24,-12.27
+"March 5, 2024",Order,460-7678185-9597944,32-IQYL-UHAB,Car Seat for Dog-Black,1,New York,NY,54.9,-8.24,-8.15
+"March 5, 2024",Order,172-1835452-1254578,32-IQYL-UHAB,Car Seat for Dog-Black,1,Dallas,TX,54.9,-8.24,-8.15
+"March 5, 2024",Order,148-5717249-6116936,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Buffalo,NY,54.9,-8.24,-12.27
+"March 5, 2024",Refund,378-9287540-2639668,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Phoenix,AZ,-54.9,8.24,0
+"March 6, 2024",Order,492-2966862-4749209,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,New York,NY,54.9,-8.24,-12.65
+"March 6, 2024",Order,863-1404323-7141074,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Jacksonville,FL,54.9,-8.24,-12.65
+"March 6, 2024",Order,259-5610116-2909919,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Chicago,IL,54.9,-8.24,-12.65
+"March 6, 2024",Order,244-4740832-1124740,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Phoenix,AZ,54.9,-8.24,-11.5
+"March 6, 2024",Order,785-6754285-8171212,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Miami,FL,54.9,-8.24,-12.65
+"March 6, 2024",Order,834-9642875-6346822,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Francisco,CA,54.9,-8.24,-11.5
+"March 6, 2024",Order,455-5302071-1025179,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Phoenix,AZ,54.9,-8.24,-8.15
+"March 6, 2024",Order,192-9664622-5630693,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Diego,CA,54.9,-8.24,-11.5
+"March 6, 2024",Order,550-9690881-4631058,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Antonio,TX,54.9,-8.24,-11.5
+"March 6, 2024",Order,864-5224985-3505400,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Dallas,TX,54.9,-8.24,-11.5
+"March 6, 2024",Refund,816-6490514-9730909,32-IQYL-UHAB,Car Seat for Dog-Black,1,New York,NY,-54.9,8.24,0
+"March 7, 2024",Order,648-1267514-6737219,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Colorado Springs,CO,54.9,-8.24,-11.5
+"March 7, 2024",Order,365-4860462-2225817,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,San Antonio,TX,54.9,-8.24,-12.65
+"March 7, 2024",Order,884-4180267-2770656,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Denver,CO,54.9,-8.24,-8.15
+"March 7, 2024",Order,913-7885103-6755553,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Phoenix,AZ,54.9,-8.24,-8.15
+"March 7, 2024",Order,729-5628146-6926727,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Colorado Springs,CO,54.9,-8.24,-12.27
+"March 7, 2024",Order,727-8919063-6807156,32-IQYL-UHAB,Car Seat for Dog-Black,1,Chicago,IL,54.9,-8.24,-8.15
+"March 7, 2024",Order,155-3869738-4780341,32-IQYL-UHAB,Car Seat for Dog-Black,1,Jacksonville,FL,54.9,-8.24,-8.15
+"March 7, 2024",Order,736-1076602-2141167,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Chicago,IL,54.9,-8.24,-12.65
+"March 7, 2024",Order,786-7606548-9283796,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Denver,CO,54.9,-8.24,-11.5
+"March 7, 2024",Order,831-9267880-4606254,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Colorado Springs,CO,54.9,-8.24,-12.27
+"March 7, 2024",Order,400-3329116-5212732,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Orlando,FL,54.9,-8.24,-12.65
+"March 7, 2024",Order,633-6388380-4538326,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Antonio,TX,54.9,-8.24,-11.5
+"March 7, 2024",Order,609-6016829-5432180,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Antonio,TX,54.9,-8.24,-11.5
+"March 7, 2024",Order,365-7497216-8414394,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Phoenix,AZ,54.9,-8.24,-8.15
+"March 7, 2024",Order,492-1663837-2556054,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Denver,CO,54.9,-8.24,-12.27
+"March 7, 2024",Order,412-1673678-7971318,32-IQYL-UHAB,Car Seat for Dog-Black,1,Denver,CO,54.9,-8.24,-8.15
+"March 7, 2024",Order,110-6777835-5050577,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Jacksonville,FL,54.9,-8.24,-12.27
+"March 8, 2024",Refund,787-2792907-8851086,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Tampa,FL,-54.9,8.24,0
+"March 8, 2024",Order,185-1548191-6619039,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Miami,FL,54.9,-8.24,-11.5
+"March 8, 2024",Order,863-5714855-4514052,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Tampa,FL,54.9,-8.24,-12.65
+"March 8, 2024",Order,499-2869902-7375301,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Denver,CO,54.9,-8.24,-11.5
+"March 8, 2024",Order,529-9169240-4408586,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,New York,NY,54.9,-8.24,-12.27
+"March 8, 2024",Order,986-4008843-4950161,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Tucson,AZ,54.9,-8.24,-12.65
+"March 8, 2024",Order,921-8030239-7630697,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Phoenix,AZ,54.9,-8.24,-11.5
+"March 8, 2024",Order,187-4015928-5238465,32-IQYL-UHAB,Car Seat for Dog-Black,1,Chicago,IL,54.9,-8.24,-8.15
+"March 8, 2024",Order,155-9006417-3945132,32-IQYL-UHAB,Car Seat for Dog-Black,1,New York,NY,54.9,-8.24,-8.15
+"March 8, 2024",Order,664-1166666-9443576,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Chicago,IL,54.9,-8.24,-11.5
+"March 8, 2024",Refund,308-2260395-6292516,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Dallas,TX,-54.9,8.24,0
+"March 8, 2024",Refund,980-4954273-7280680,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Phoenix,AZ,-54.9,8.24,0
+"March 9, 2024",Order,712-4354098-2218410,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Chicago,IL,54.9,-8.24,-11.5
+"March 9, 2024",Order,680-1390373-4696248,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Chicago,IL,54.9,-8.24,-12.65
+"March 9, 2024",Order,882-3948999-1895594,32-IQYL-UHAB,Car Seat for Dog-Black,1,Phoenix,AZ,54.9,-8.24,-8.15
+"March 9, 2024",Order,327-2536386-8582197,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Austin,TX,54.9,-8.24,-12.27
+"March 9, 2024",Order,619-5291545-7519666,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Houston,TX,54.9,-8.24,-11.5
+"March 9, 2024",Order,250-5462242-7067885,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Austin,TX,54.9,-8.24,-12.27
+"March 9, 2024",Order,293-1368446-2768046,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Los Angeles,CA,54.9,-8.24,-11.5
+"March 9, 2024",Order,760-1550747-4676496,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Austin,TX,54.9,-8.24,-12.65
+"March 9, 2024",Order,886-1553834-3580995,32-IQYL-UHAB,Car Seat for Dog-Black,1,Denver,CO,54.9,-8.24,-8.15
+"March 9, 2024",Order,515-6973216-4321738,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Antonio,TX,54.9,-8.24,-11.5
+"March 9, 2024",Order,256-6982527-3373934,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Los Angeles,CA,54.9,-8.24,-12.65
+"March 9, 2024",Order,564-6159200-1675467,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Spokane,WA,54.9,-8.24,-11.5
+"March 10, 2024",Order,607-8238262-8237136,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Austin,TX,54.9,-8.24,-12.65
+"March 10, 2024",Order,298-8257061-7569611,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Francisco,CA,54.9,-8.24,-11.5
+"March 10, 2024",Order,445-7129547-8204346,32-IQYL-UHAB,Car Seat for Dog-Black,1,San Francisco,CA,54.9,-8.24,-8.15
+"March 10, 2024",Order,722-4373405-2890531,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Seattle,WA,54.9,-8.24,-8.15
+"March 10, 2024",Order,236-4692715-2607998,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Dallas,TX,54.9,-8.24,-12.27
+"March 10, 2024",Order,270-7348624-9123985,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,San Diego,CA,54.9,-8.24,-12.27
+"March 10, 2024",Order,881-3203609-3004879,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Denver,CO,54.9,-8.24,-11.5
+"March 10, 2024",Order,951-4600592-1912979,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,New York,NY,54.9,-8.24,-12.65
+"March 10, 2024",Order,260-8013462-5503533,32-IQYL-UHAB,Car Seat for Dog-Black,1,San Francisco,CA,54.9,-8.24,-8.15
+"March 10, 2024",Order,264-7991898-4633829,32-IQYL-UHAB,Car Seat for Dog-Black,1,New York,NY,54.9,-8.24,-8.15
+"March 10, 2024",Refund,608-7014429-8267960,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Colorado Springs,CO,-54.9,8.24,0
+"March 11, 2024",Order,922-9363572-5073155,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Chicago,IL,54.9,-8.24,-11.5
+"March 11, 2024",Order,728-3471859-5354166,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Colorado Springs,CO,54.9,-8.24,-8.15
+"March 11, 2024",Order,481-2323190-6963827,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,San Diego,CA,54.9,-8.24,-12.27
+"March 11, 2024",Order,670-4703194-3116602,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,San Francisco,CA,54.9,-8.24,-12.27
+"March 11, 2024",Order,476-4756611-8445043,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Denver,CO,54.9,-8.24,-12.27
+"March 11, 2024",Order,287-1877930-1818175,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Seattle,WA,54.9,-8.24,-8.15
+"March 11, 2024",Order,577-7261499-6906740,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Diego,CA,54.9,-8.24,-11.5
+"March 11, 2024",Order,313-3130381-4697406,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Phoenix,AZ,54.9,-8.24,-11.5
+"March 11, 2024",Order,534-9590816-4593633,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Austin,TX,54.9,-8.24,-12.27
+"March 12, 2024",Order,751-1896404-6183894,32-IQYL-UHAB,Car Seat for Dog-Black,1,New York,NY,54.9,-8.24,-8.15
+"March 12, 2024",Order,567-6462403-8041868,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Diego,CA,54.9,-8.24,-11.5
+"March 12, 2024",Order,266-1289355-9630315,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Orlando,FL,54.9,-8.24,-12.65
+"March 12, 2024",Order,760-8313738-7529540,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Miami,FL,54.9,-8.24,-8.15
+"March 12, 2024",Order,963-4350945-6294271,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Seattle,WA,54.9,-8.24,-11.5
+"March 12, 2024",Order,282-8584743-3455559,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Denver,CO,54.9,-8.24,-11.5
+"March 12, 2024",Order,226-2190515-7433896,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Houston,TX,54.9,-8.24,-12.65
+"March 12, 2024",Order,592-4316448-3832628,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Tampa,FL,54.9,-8.24,-11.5
+"March 12, 2024",Order,405-9010135-9487271,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Denver,CO,54.9,-8.24,-11.5
+"March 12, 2024",Order,888-1171651-1615214,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,San Diego,CA,54.9,-8.24,-12.27
+"March 12, 2024",Order,653-2349664-7874624,32-IQYL-UHAB,Car Seat for Dog-Black,1,Phoenix,AZ,54.9,-8.24,-8.15
+"March 12, 2024",Order,243-6362991-7017987,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Naperville,IL,54.9,-8.24,-12.65
+"March 13, 2024",Order,922-2441685-7615713,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Dallas,TX,54.9,-8.24,-12.65
+"March 13, 2024",Order,740-1125452-2591720,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Seattle,WA,54.9,-8.24,-12.65
+"March 13, 2024",Order,406-4678408-6535981,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Los Angeles,CA,54.9,-8.24,-12.65
+"March 13, 2024",Order,824-4052626-8757925,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Chicago,IL,54.9,-8.24,-12.65
+"March 13, 2024",Order,378-2104218-5192721,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Seattle,WA,54.9,-8.24,-12.65
+"March 13, 2024",Order,455-5529369-9362860,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Jose,CA,54.9,-8.24,-11.5
+"March 13, 2024",Order,334-9689649-8314455,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,San Francisco,CA,54.9,-8.24,-12.27
+"March 13, 2024",Order,586-3502225-6873396,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Rochester,NY,54.9,-8.24,-11.5
+"March 13, 2024",Order,759-3589474-3227150,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Buffalo,NY,54.9,-8.24,-12.65
+"March 13, 2024",Order,232-3295995-2954053,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Los Angeles,CA,54.9,-8.24,-11.5
+"March 14, 2024",Order,107-3438680-1145427,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Tampa,FL,54.9,-8.24,-11.5
+"March 14, 2024",Order,416-3242695-7571654,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Dallas,TX,54.9,-8.24,-12.65
+"March 14, 2024",Order,586-4114520-5512072,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Antonio,TX,54.9,-8.24,-11.5
+"March 14, 2024",Order,902-1126418-2327943,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Jacksonville,FL,54.9,-8.24,-12.27
+"March 14, 2024",Order,235-7577660-7516853,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Seattle,WA,54.9,-8.24,-11.5
+"March 14, 2024",Order,323-3709868-2519682,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Colorado Springs,CO,54.9,-8.24,-12.65
+"March 14, 2024",Order,922-4871618-4433959,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,New York,NY,54.9,-8.24,-12.65
+"March 14, 2024",Order,184-8236865-6978909,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,San Jose,CA,54.9,-8.24,-8.15
+"March 14, 2024",Order,289-9275901-2329769,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Miami,FL,54.9,-8.24,-8.15
+"March 14, 2024",Order,357-6507628-7577542,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,New York,NY,54.9,-8.24,-12.65
+"March 15, 2024",Order,766-2186105-4191175,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Austin,TX,54.9,-8.24,-12.65
+"March 15, 2024",Order,222-8506226-6524496,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Denver,CO,54.9,-8.24,-11.5
+"March 15, 2024",Order,243-4213007-5666143,32-IQYL-UHAB,Car Seat for Dog-Black,1,New York,NY,54.9,-8.24,-8.15
+"March 15, 2024",Order,158-2866549-5458268,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Los Angeles,CA,54.9,-8.24,-12.27
+"March 15, 2024",Order,563-5157600-8860529,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,San Francisco,CA,54.9,-8.24,-12.65
+"March 15, 2024",Order,398-7298542-2493448,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,San Francisco,CA,54.9,-8.24,-12.27
+"March 15, 2024",Order,538-9166868-2051212,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Denver,CO,54.9,-8.24,-12.27
+"March 15, 2024",Order,163-4422957-4179854,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Austin,TX,54.9,-8.24,-11.5
+"March 15, 2024",Order,520-7962198-3771821,32-IQYL-UHAB,Car Seat for Dog-Black,1,San Francisco,CA,54.9,-8.24,-8.15
+"March 15, 2024",Order,158-3606862-2514189,32-IQYL-UHAB,Car Seat for Dog-Black,1,Los Angeles,CA,54.9,-8.24,-8.15
+"March 15, 2024",Order,848-3311738-2573181,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Denver,CO,54.9,-8.24,-11.5
+"March 15, 2024",Order,661-2042524-8688641,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,New York,NY,54.9,-8.24,-11.5
+"March 15, 2024",Order,859-7538022-6147383,32-IQYL-UHAB,Car Seat for Dog-Black,1,Tampa,FL,54.9,-8.24,-8.15
+"March 15, 2024",Order,803-1190147-2774130,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,San Jose,CA,54.9,-8.24,-12.65
+"March 15, 2024",Order,172-4568140-6718347,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Antonio,TX,54.9,-8.24,-11.5
+"March 15, 2024",Order,671-9546889-4530270,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Austin,TX,54.9,-8.24,-12.27
+"March 15, 2024",Order,408-8539177-4436795,32-IQYL-UHAB,Car Seat for Dog-Black,1,Phoenix,AZ,54.9,-8.24,-8.15
+"March 16, 2024",Order,721-7622090-7291633,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Chicago,IL,54.9,-8.24,-12.65
+"March 16, 2024",Order,114-5909266-5502461,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Spokane,WA,54.9,-8.24,-12.65
+"March 16, 2024",Order,707-3011697-4591381,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Dallas,TX,54.9,-8.24,-12.27
+"March 16, 2024",Order,952-3952357-7484739,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Tampa,FL,54.9,-8.24,-12.65
+"March 16, 2024",Order,829-3680179-1754199,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,San Diego,CA,54.9,-8.24,-12.27
+"March 16, 2024",Order,576-6201875-6049244,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,San Diego,CA,54.9,-8.24,-12.65
+"March 16, 2024",Order,790-6789085-8310310,32-IQYL-UHAB,Car Seat for Dog-Black,1,Spokane,WA,54.9,-8.24,-8.15
+"March 16, 2024",Order,784-8736513-8949214,32-IQYL-UHAB,Car Seat for Dog-Black,1,Denver,CO,54.9,-8.24,-8.15
+"March 16, 2024",Order,988-8446361-2104352,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Antonio,TX,54.9,-8.24,-11.5
+"March 16, 2024",Order,394-9705453-4806883,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Denver,CO,54.9,-8.24,-12.65
+"March 16, 2024",Order,825-5163250-7908370,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,New York,NY,54.9,-8.24,-12.65
+"March 16, 2024",Order,186-3772262-8863878,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Austin,TX,54.9,-8.24,-12.27
+"March 16, 2024",Order,718-7564014-5502050,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Denver,CO,54.9,-8.24,-11.5
+"March 16, 2024",Order,856-6048397-8024515,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Buffalo,NY,54.9,-8.24,-12.27
+"March 16, 2024",Order,891-3777482-9696776,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Jacksonville,FL,54.9,-8.24,-12.65
+"March 16, 2024",Order,425-6154759-1604007,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Dallas,TX,54.9,-8.24,-8.15
+"March 16, 2024",Order,672-4567095-5420160,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,San Antonio,TX,54.9,-8.24,-8.15
+"March 17, 2024",Order,446-2506693-1597697,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Los Angeles,CA,54.9,-8.24,-11.5
+"March 17, 2024",Order,582-3808889-5915020,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Denver,CO,54.9,-8.24,-11.5
+"March 17, 2024",Order,682-1387713-8052372,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Tampa,FL,54.9,-8.24,-12.27
+"March 17, 2024",Order,621-7528163-2781855,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,New York,NY,54.9,-8.24,-11.5
+"March 17, 2024",Order,611-4603485-6936389,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Phoenix,AZ,54.9,-8.24,-12.27
+"March 18, 2024",Order,293-1140585-3132767,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Austin,TX,54.9,-8.24,-12.65
+"March 18, 2024",Order,563-9662679-5951505,32-IQYL-UHAB,Car Seat for Dog-Black,1,San Francisco,CA,54.9,-8.24,-8.15
+"March 18, 2024",Order,459-4324906-2388728,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,San Jose,CA,54.9,-8.24,-12.65
+"March 18, 2024",Order,203-4414424-6329524,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Jose,CA,54.9,-8.24,-11.5
+"March 18, 2024",Order,911-5919436-2104223,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Orlando,FL,54.9,-8.24,-12.65
+"March 18, 2024",Order,635-9810235-8968573,32-IQYL-UHAB,Car Seat for Dog-Black,1,Tucson,AZ,54.9,-8.24,-8.15
+"March 18, 2024",Order,279-6175453-3973207,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,San Francisco,CA,54.9,-8.24,-12.27
+"March 18, 2024",Order,349-8674674-3315791,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Orlando,FL,54.9,-8.24,-11.5
+"March 18, 2024",Order,754-8115149-9455574,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Miami,FL,54.9,-8.24,-12.27
+"March 19, 2024",Order,778-4318459-7342106,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Denver,CO,54.9,-8.24,-11.5
+"March 19, 2024",Order,322-3602707-7548428,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Denver,CO,54.9,-8.24,-12.65
+"March 19, 2024",Order,782-3619316-5793300,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Rochester,NY,54.9,-8.24,-12.27
+"March 19, 2024",Order,438-3568271-2081494,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Rochester,NY,54.9,-8.24,-12.27
+"March 19, 2024",Order,175-1003719-1504154,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Tucson,AZ,54.9,-8.24,-12.27
+"March 19, 2024",Order,357-2031454-4496203,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Tampa,FL,54.9,-8.24,-8.15
+"March 19, 2024",Order,463-4359063-3659001,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Dallas,TX,54.9,-8.24,-12.65
+"March 19, 2024",Order,614-2704054-1172224,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,San Diego,CA,54.9,-8.24,-12.65
+"March 19, 2024",Order,830-4541745-4385623,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,New York,NY,54.9,-8.24,-11.5
+"March 19, 2024",Order,626-1397685-6487123,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Denver,CO,54.9,-8.24,-12.27
+"March 19, 2024",Order,257-8589215-1878192,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Francisco,CA,54.9,-8.24,-11.5
+"March 19, 2024",Order,124-3482130-5230710,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Austin,TX,54.9,-8.24,-11.5
+"March 20, 2024",Order,685-9298716-9372934,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Los Angeles,CA,54.9,-8.24,-11.5
+"March 20, 2024",Order,341-3642015-3934648,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Rochester,NY,54.9,-8.24,-11.5
+"March 20, 2024",Order,300-7133721-3862367,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Los Angeles,CA,54.9,-8.24,-11.5
+"March 20, 2024",Order,926-5994281-3277006,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,San Francisco,CA,54.9,-8.24,-12.65
+"March 20, 2024",Order,223-6022549-9777711,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Phoenix,AZ,54.9,-8.24,-11.5
+"March 20, 2024",Order,200-1509192-7632985,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Rochester,NY,54.9,-8.24,-12.65
+"March 20, 2024",Order,580-7191553-4022357,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Denver,CO,54.9,-8.24,-11.5
+"March 20, 2024",Order,631-9965244-4799300,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Naperville,IL,54.9,-8.24,-11.5
+"March 20, 2024",Order,603-4822891-1816057,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Los Angeles,CA,54.9,-8.24,-11.5
+"March 20, 2024",Order,317-8246701-6554494,32-IQYL-UHAB,Car Seat for Dog-Black,1,Jacksonville,FL,54.9,-8.24,-8.15
+"March 20, 2024",Order,709-8533882-7226046,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Denver,CO,54.9,-8.24,-11.5
+"March 20, 2024",Order,630-2816172-7963812,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,San Antonio,TX,54.9,-8.24,-12.65
+"March 20, 2024",Order,757-4745834-4329907,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Naperville,IL,54.9,-8.24,-8.15
+"March 20, 2024",Order,934-6183846-7281684,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Houston,TX,54.9,-8.24,-8.15
+"March 21, 2024",Order,355-5654721-6116210,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,New York,NY,54.9,-8.24,-11.5
+"March 21, 2024",Order,258-7537142-9239749,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Tucson,AZ,54.9,-8.24,-12.65
+"March 21, 2024",Order,713-6892304-2035598,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Diego,CA,54.9,-8.24,-11.5
+"March 21, 2024",Order,510-6908092-2380333,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Seattle,WA,54.9,-8.24,-11.5
+"March 21, 2024",Order,687-6932792-5829280,32-IQYL-UHAB,Car Seat for Dog-Black,1,Chicago,IL,54.9,-8.24,-8.15
+"March 21, 2024",Order,111-2917377-7490211,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Austin,TX,54.9,-8.24,-12.65
+"March 21, 2024",Order,591-5638180-1876111,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Phoenix,AZ,54.9,-8.24,-12.65
+"March 21, 2024",Order,675-9601230-4694015,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Los Angeles,CA,54.9,-8.24,-11.5
+"March 21, 2024",Order,858-2875573-3805985,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Buffalo,NY,54.9,-8.24,-12.65
+"March 21, 2024",Order,364-5021995-5687919,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,San Francisco,CA,54.9,-8.24,-12.27
+"March 21, 2024",Order,622-3324269-3382971,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Jacksonville,FL,54.9,-8.24,-12.65
+"March 21, 2024",Order,630-1749894-7491535,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Phoenix,AZ,54.9,-8.24,-11.5
+"March 21, 2024",Order,770-9932858-8168233,32-IQYL-UHAB,Car Seat for Dog-Black,1,Jacksonville,FL,54.9,-8.24,-8.15
+"March 22, 2024",Order,398-5351526-6457779,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,San Diego,CA,54.9,-8.24,-8.15
+"March 22, 2024",Order,859-2630048-3749850,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Tampa,FL,54.9,-8.24,-12.65
+"March 22, 2024",Order,636-9317188-9740423,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Austin,TX,54.9,-8.24,-11.5
+"March 22, 2024",Order,571-7815476-6498400,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Orlando,FL,54.9,-8.24,-12.27
+"March 22, 2024",Order,118-2475514-4442858,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Seattle,WA,54.9,-8.24,-12.27
+"March 22, 2024",Order,887-3932648-3228175,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Los Angeles,CA,54.9,-8.24,-12.65
+"March 22, 2024",Order,918-6234416-5214093,32-IQYL-UHAB,Car Seat for Dog-Black,1,Dallas,TX,54.9,-8.24,-8.15
+"March 22, 2024",Order,548-7179865-6472172,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,New York,NY,54.9,-8.24,-8.15
+"March 22, 2024",Order,817-9015924-5201147,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Chicago,IL,54.9,-8.24,-12.27
+"March 22, 2024",Order,719-1814332-5935288,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Orlando,FL,54.9,-8.24,-12.27
+"March 22, 2024",Order,763-8957532-3536533,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Austin,TX,54.9,-8.24,-12.65
+"March 22, 2024",Order,676-7127466-3851470,32-IQYL-UHAB,Car Seat for Dog-Black,1,New York,NY,54.9,-8.24,-8.15
+"March 23, 2024",Order,110-9049823-6997523,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Austin,TX,54.9,-8.24,-11.5
+"March 23, 2024",Order,146-8167077-5246148,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Los Angeles,CA,54.9,-8.24,-12.65
+"March 23, 2024",Order,224-2859959-6391459,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Buffalo,NY,54.9,-8.24,-11.5
+"March 23, 2024",Order,638-3590560-9287745,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Seattle,WA,54.9,-8.24,-12.65
+"March 24, 2024",Refund,863-5714855-4514052,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Tampa,FL,-54.9,8.24,0
+"March 24, 2024",Order,759-5341423-9188606,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Miami,FL,54.9,-8.24,-11.5
+"March 24, 2024",Order,427-7790376-5892928,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Phoenix,AZ,54.9,-8.24,-11.5
+"March 24, 2024",Order,432-5658636-3020216,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Los Angeles,CA,54.9,-8.24,-12.27
+"March 24, 2024",Order,701-2824213-5333581,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Denver,CO,54.9,-8.24,-11.5
+"March 24, 2024",Order,571-5947636-5691623,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Miami,FL,54.9,-8.24,-12.65
+"March 24, 2024",Order,420-1116089-8830861,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Los Angeles,CA,54.9,-8.24,-12.27
+"March 24, 2024",Order,275-5722486-6779537,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Phoenix,AZ,54.9,-8.24,-11.5
+"March 24, 2024",Order,162-8624946-5628323,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Orlando,FL,54.9,-8.24,-12.27
+"March 24, 2024",Order,169-4776445-6779939,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Austin,TX,54.9,-8.24,-8.15
+"March 24, 2024",Order,810-9386515-6551273,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,San Jose,CA,54.9,-8.24,-11.5
+"March 24, 2024",Order,598-8861489-6345346,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,San Diego,CA,54.9,-8.24,-12.65
+"March 24, 2024",Order,958-2903449-3210230,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Los Angeles,CA,54.9,-8.24,-12.65
+"March 24, 2024",Order,491-2615018-8108845,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Rochester,NY,54.9,-8.24,-12.65
+"March 25, 2024",Order,732-2887208-2701616,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Austin,TX,54.9,-8.24,-11.5
+"March 25, 2024",Order,483-7992023-7619190,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Spokane,WA,54.9,-8.24,-11.5
+"March 25, 2024",Order,407-8312312-8392425,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,New York,NY,54.9,-8.24,-12.65
+"March 25, 2024",Order,496-2778602-6570768,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Phoenix,AZ,54.9,-8.24,-11.5
+"March 25, 2024",Order,196-3793087-1597834,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Houston,TX,54.9,-8.24,-11.5
+"March 25, 2024",Order,733-1290331-8236636,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Jacksonville,FL,54.9,-8.24,-12.27
+"March 25, 2024",Order,128-3288257-5029038,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Tampa,FL,54.9,-8.24,-8.15
+"March 25, 2024",Order,231-5839463-3335870,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Seattle,WA,54.9,-8.24,-12.27
+"March 25, 2024",Order,702-4975329-4328133,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Phoenix,AZ,54.9,-8.24,-12.65
+"March 25, 2024",Order,568-7104310-8880109,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Jacksonville,FL,54.9,-8.24,-12.27
+"March 25, 2024",Order,827-7358709-5473038,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Colorado Springs,CO,54.9,-8.24,-12.27
+"March 26, 2024",Order,211-9610872-5119885,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,San Diego,CA,54.9,-8.24,-12.65
+"March 26, 2024",Order,880-7163990-5226509,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Spokane,WA,54.9,-8.24,-12.65
+"March 26, 2024",Order,193-6869602-7794200,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Tampa,FL,54.9,-8.24,-12.65
+"March 26, 2024",Order,485-1472887-1803726,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Spokane,WA,54.9,-8.24,-12.65
+"March 26, 2024",Order,458-2292971-4012764,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Los Angeles,CA,54.9,-8.24,-12.27
+"March 26, 2024",Order,177-3813788-5682758,32-IQYL-UHAB,Car Seat for Dog-Black,1,Colorado Springs,CO,54.9,-8.24,-8.15
+"March 26, 2024",Order,144-5904321-8441165,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Denver,CO,54.9,-8.24,-12.27
+"March 26, 2024",Order,111-6101375-8887651,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Los Angeles,CA,54.9,-8.24,-11.5
+"March 26, 2024",Order,272-7570167-6073293,32-IQYL-UHAB,Car Seat for Dog-Black,1,San Francisco,CA,54.9,-8.24,-8.15
+"March 26, 2024",Order,195-6995761-6985923,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Phoenix,AZ,54.9,-8.24,-11.5
+"March 26, 2024",Order,565-3109984-5735265,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Denver,CO,54.9,-8.24,-12.65
+"March 26, 2024",Order,103-3406199-4156776,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,New York,NY,54.9,-8.24,-11.5
+"March 26, 2024",Order,763-1610025-8705718,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Jacksonville,FL,54.9,-8.24,-11.5
+"March 26, 2024",Order,179-3510435-4405669,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Seattle,WA,54.9,-8.24,-8.15
+"March 27, 2024",Refund,172-1835452-1254578,32-IQYL-UHAB,Car Seat for Dog-Black,1,Dallas,TX,-54.9,8.24,0
+"March 27, 2024",Order,428-1868361-8493716,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Houston,TX,54.9,-8.24,-12.27
+"March 27, 2024",Order,656-9756051-1884460,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Orlando,FL,54.9,-8.24,-11.5
+"March 27, 2024",Order,214-6132744-3531560,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Miami,FL,54.9,-8.24,-11.5
+"March 27, 2024",Order,479-9420275-4088343,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Los Angeles,CA,54.9,-8.24,-11.5
+"March 27, 2024",Order,131-5886622-9090439,32-IQYL-UHAB,Car Seat for Dog-Black,1,Buffalo,NY,54.9,-8.24,-8.15
+"March 27, 2024",Order,191-4348049-3938551,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Naperville,IL,54.9,-8.24,-12.65
+"March 27, 2024",Order,298-8745924-7353655,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Rochester,NY,54.9,-8.24,-12.65
+"March 27, 2024",Order,197-4958603-2478897,32-IQYL-UHAB,Car Seat for Dog-Black,1,Miami,FL,54.9,-8.24,-8.15
+"March 27, 2024",Order,711-7045868-5183622,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Tucson,AZ,54.9,-8.24,-12.27
+"March 27, 2024",Order,227-3808460-7820875,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Colorado Springs,CO,54.9,-8.24,-11.5
+"March 27, 2024",Order,544-2219861-7393901,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Dallas,TX,54.9,-8.24,-11.5
+"March 27, 2024",Order,842-9035769-7481682,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Seattle,WA,54.9,-8.24,-11.5
+"March 28, 2024",Order,504-4562257-6595080,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,New York,NY,54.9,-8.24,-8.15
+"March 28, 2024",Order,712-1757265-7751683,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Phoenix,AZ,54.9,-8.24,-11.5
+"March 28, 2024",Order,482-8891762-6445153,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,San Diego,CA,54.9,-8.24,-12.27
+"March 28, 2024",Order,621-4579272-5665853,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Los Angeles,CA,54.9,-8.24,-11.5
+"March 28, 2024",Order,449-6245890-4295782,32-IQYL-UHAB,Car Seat for Dog-Black,1,Seattle,WA,54.9,-8.24,-8.15
+"March 28, 2024",Order,624-9913175-2490455,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Los Angeles,CA,54.9,-8.24,-12.65
+"March 29, 2024",Order,879-9661285-7653646,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Chicago,IL,54.9,-8.24,-12.27
+"March 29, 2024",Order,635-4871951-4347910,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Austin,TX,54.9,-8.24,-12.65
+"March 29, 2024",Order,993-1148738-9865589,32-IQYL-UHAB,Car Seat for Dog-Black,1,Spokane,WA,54.9,-8.24,-8.15
+"March 29, 2024",Order,124-7395637-9754938,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Los Angeles,CA,54.9,-8.24,-12.65
+"March 29, 2024",Order,823-9012042-7778133,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Jacksonville,FL,54.9,-8.24,-12.65
+"March 29, 2024",Order,327-6657180-7473561,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Rochester,NY,54.9,-8.24,-12.27
+"March 29, 2024",Order,830-5208193-5052940,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Los Angeles,CA,54.9,-8.24,-8.15
+"March 29, 2024",Order,739-1778548-5132185,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Los Angeles,CA,54.9,-8.24,-11.5
+"March 29, 2024",Order,889-4493890-8057187,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Jacksonville,FL,54.9,-8.24,-11.5
+"March 29, 2024",Order,470-6859508-8326410,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Austin,TX,54.9,-8.24,-12.65
+"March 30, 2024",Refund,499-3691943-5428695,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Phoenix,AZ,-54.9,8.24,0
+"March 30, 2024",Order,967-8851840-3152627,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Denver,CO,54.9,-8.24,-12.65
+"March 30, 2024",Order,528-7332548-5410117,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Miami,FL,54.9,-8.24,-11.5
+"March 30, 2024",Order,811-1238270-9852083,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Colorado Springs,CO,54.9,-8.24,-12.65
+"March 30, 2024",Order,923-6560057-8393551,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,San Francisco,CA,54.9,-8.24,-12.65
+"March 30, 2024",Order,905-2660607-4780005,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Dallas,TX,54.9,-8.24,-11.5
+"March 30, 2024",Order,466-7170550-1653508,32-IQYL-UHAB,Car Seat for Dog-Black,1,San Diego,CA,54.9,-8.24,-8.15
+"March 30, 2024",Order,934-7858386-6070817,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Miami,FL,54.9,-8.24,-12.65
+"March 30, 2024",Order,860-6194968-4564749,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Rochester,NY,54.9,-8.24,-12.65
+"March 30, 2024",Order,194-7998311-7580654,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Seattle,WA,54.9,-8.24,-12.27
+"March 30, 2024",Order,932-2548902-7928163,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Los Angeles,CA,54.9,-8.24,-11.5
+"March 30, 2024",Order,966-2399261-1524347,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Dallas,TX,54.9,-8.24,-11.5
+"March 30, 2024",Order,133-8403538-3227452,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Tampa,FL,54.9,-8.24,-11.5
+"March 30, 2024",Order,228-9291359-8316124,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Los Angeles,CA,54.9,-8.24,-12.65
+"March 30, 2024",Order,711-2531773-9959123,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Phoenix,AZ,54.9,-8.24,-12.27
+"March 30, 2024",Order,652-3541869-1366011,8O-DXOB-HH5A,Car Seat for Dog-Rainbow,1,Denver,CO,54.9,-8.24,-8.15
+"March 30, 2024",Order,492-2217752-8556977,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,San Diego,CA,54.9,-8.24,-12.65
+"March 30, 2024",Order,489-5230672-1076092,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Rochester,NY,54.9,-8.24,-12.27
+"March 30, 2024",Order,936-4691578-7341175,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Austin,TX,54.9,-8.24,-11.5
+"March 30, 2024",Order,349-2049917-8032564,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Orlando,FL,54.9,-8.24,-12.65
+"March 30, 2024",Order,886-1546466-3411414,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,New York,NY,54.9,-8.24,-12.65
+"March 30, 2024",Order,374-1237050-9335516,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,New York,NY,54.9,-8.24,-12.27
+"March 30, 2024",Order,552-5574765-8692839,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Phoenix,AZ,54.9,-8.24,-12.27
+"March 31, 2024",Refund,364-5021995-5687919,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,San Francisco,CA,-54.9,8.24,0
+"March 31, 2024",Order,886-2407056-1366701,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Austin,TX,54.9,-8.24,-11.5
+"March 31, 2024",Order,543-2612345-2391475,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Austin,TX,54.9,-8.24,-11.5
+"March 31, 2024",Order,305-9874989-3747881,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Miami,FL,54.9,-8.24,-12.27
+"March 31, 2024",Order,700-6600393-6839705,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Phoenix,AZ,54.9,-8.24,-12.65
+"March 31, 2024",Order,234-3996697-7394000,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Los Angeles,CA,54.9,-8.24,-11.5
+"March 31, 2024",Order,323-7826847-4174565,32-IQYL-UHAB,Car Seat for Dog-Black,1,San Antonio,TX,54.9,-8.24,-8.15
+"March 31, 2024",Order,525-7366853-1723600,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Tucson,AZ,54.9,-8.24,-11.5
+"March 31, 2024",Order,158-5884816-3472149,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,New York,NY,54.9,-8.24,-12.27
+"March 31, 2024",Order,780-3829094-3741402,03-ZPPH-X7CL,Car Seat for Dog-Brown,1,Colorado Springs,CO,54.9,-8.24,-12.65
+"March 31, 2024",Order,760-2484455-8507437,II-1JLZ-7YG6,Car Seat for Dog-Beige,1,Denver,CO,54.9,-8.24,-11.5
+"March 31, 2024",Order,348-1729293-4838380,OT-T2IP-D9BI,Car Seat for Dog-Pink,1,Spokane,WA,54.9,-8.24,-12.27
+"March 31, 2024",Order,345-8218371-5696823,32-IQYL-UHAB,Car Seat for Dog-Black,1,San Antonio,TX,54.9,-8.24,-8.15
+"March 31, 2024",Order,520-4387657-8692720,WS-L9LR-FMUA,Car Seat for Dog-Grey,1,Orlando,FL,54.9,-8.24,-12.65
