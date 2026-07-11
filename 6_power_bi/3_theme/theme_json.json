@@ -1,0 +1,43 @@
+{
+  "name": "Amazon Seller Analytics Theme",
+  "background": "#F7F5F2",
+  "foreground": "#2B2B2B",
+  "tableAccent": "#8B5E3C",
+ "dataColors": [
+  "#DCC3A5",  
+  "#8B5E3C",  
+  "#F2C6C2",  
+  "#B3B3B3",  
+  "#2B2B2B",  
+  "#74D1AC"   
+  ],
+  "visualStyles": {
+	"*": {
+  	"*": {
+    	"title": [
+      	{
+        	"color": { "solid": { "color": "#2B2B2B" } },
+        	"fontSize": 13,
+        	"fontFamily": "Segoe UI"
+      	}
+    	],
+    	"labels": [
+      	{
+        	"color": { "solid": { "color": "#2B2B2B" } }
+      	}
+    	],
+    	"background": [
+      	{
+        	"color": { "solid": { "color": "#FFFFFF" } },
+        	"transparency": 0
+      	}
+    	],
+    	"border": [
+      	{
+        	"show": false
+      	}
+    	]
+  	}
+	}
+  }
+}
