@@ -369,3 +369,49 @@ Performance testing and optimization were conducted to ensure efficient report e
 - [DAX Studio Server Timings Analysis](./7_performance_validation/2_dax_%20studio_server_timings/)
 - [Performance Summary](./7_performance_validation/performance_summary.md)
 
+## Dashboard Pages
+The Power BI solution consists of multiple analytical pages designed to support operational monitoring, financial analysis, marketing performance evaluation, and strategic decision-making.
+
+### Executive Overview
+![Overview](./8_power_bi_service/report_pages/1_overview.gif)
+Provides a high-level summary of business performance, including revenue, profitability, returns, marketing spend, and key business KPIs.
+
+### Sales Performance
+![Sales](./8_power_bi_service/report_pages/2_sales.gif)
+Analyzes sales trends, order activity, revenue distribution, and geographical performance across states and cities.
+
+### Returns Analysis
+![Returns](./8_power_bi_service/report_pages/3_returns.gif)
+Monitors return activity, refund amounts, return rates, and their impact on overall business profitability.
+
+### Product Performance
+![Product](./8_power_bi_service/report_pages/4_product.gif)
+Evaluates product profitability, revenue contribution, margin performance, and top-performing versus underperforming product colors.
+
+### Marketing Performance
+![Marketing](./8_power_bi_service/report_pages/5_marketing.gif)
+Measures advertising performance across Amazon Ads and Meta Ads using CTR, CPC, TACoS, impressions, clicks, and spend metrics.
+
+### Profit & Loss (P&L)
+![P&L](./8_power_bi_service/report_pages/6_p_l.gif)
+Provides a financial view of the business, including:
+- Gross Revenue
+- Net Sales
+- Gross Profit
+- Operating Expenses
+- Operating Profit (EBIT)
+- Gross Margin
+- Operating Margin
+
+### Business Trends
+![Business Trends](./8_power_bi_service/report_pages/7_business_trends.gif)
+Analyzes business performance using Time Intelligence calculations, including:
+- MTD (Month-to-Date)
+- YTD (Year-to-Date)
+- MoM (Month-over-Month)
+- QoQ (Quarter-over-Quarter)
+- YoY (Year-over-Year)
+
+### Planning & Growth Strategy
+![Planning & Strategy](./8_power_bi_service/report_pages/8_planning_strategy.png)
+Presents SWOT analysis, key business insights, growth opportunities, and strategic recommendations derived from the analytical findings.
