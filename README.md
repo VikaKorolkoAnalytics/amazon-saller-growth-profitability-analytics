@@ -335,8 +335,8 @@ The model also includes calculated tables and calculated columns used to support
 - [Meta Advertising Measures](./6_power_bi/2_dax/07_meta_ads.md)
 - [Time Intelligence Measures](./6_power_bi/2_dax/08_time_intelligence.md)
 - [Profit & Loss (P&L) Measures](./6_power_bi/2_dax/09_pnl.md)
-- [Business Insights & Dynamic Labels](./6_power_bi/2_dax/10_insights)
-- [Calculated Tables](./6_power_bi/2_dax/11_calculated_tables)
+- [Business Insights & Dynamic Labels](./6_power_bi/2_dax/10_insights.md)
+- [Calculated Tables](./6_power_bi/2_dax/11_calculated_tables.md)
 - [Calculated Columns](./6_power_bi/2_dax/12_calculated_columns.md)
 
 ## Power BI Theme
