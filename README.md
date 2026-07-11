@@ -99,3 +99,14 @@ The solution was designed to answer key business questions relevant to ecommerce
 ### Performance Validation
 - Power BI Performance Analyzer
 - DAX Studio
+
+## Solution Architecture
+[![Solution Architecture](./1_architecture/solution_archtecture.png)](./1_architecture/solution_archtecture.png)
+The following diagram illustrates the end-to-end data pipeline, from raw data ingestion through ETL, SQL modeling, analytical reporting, and Power BI Service deployment.
+
+- Raw data ingested from Amazon Sales, Amazon Ads, and Meta Ads CSV exports.
+- Power Query used for ETL, data cleansing, and transformation.
+- SQL staging layer supports initial and incremental monthly data loads.
+- Hybrid Star Schema model implemented to support scalable analytical reporting.
+- Power BI Semantic Model contains reusable DAX measures, KPI calculations, and Time Intelligence logic.
+- Report deployed to Power BI Service using Import Mode.
