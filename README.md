@@ -250,3 +250,105 @@ Most dimensions are directly connected to fact tables using a star schema design
 - Reduces data redundancy through selective normalization.
 - Maintains efficient filtering and aggregation performance.
 - Enables reusable dimensional modeling across multiple fact tables.
+  
+## Power BI Semantic Model
+![Power BI Semantic Model](./6_power_bi/1_semantic_model/semantic_model.png)
+
+The final semantic model was implemented in Power BI Desktop using a Hybrid Star Schema design with reusable dimension tables and centralized business logic.
+
+The model supports Sales, Returns, Marketing, Product Performance, Profitability, and Financial analytics while maintaining efficient filtering and aggregation performance.
+
+### Core Fact Tables
+- fact_amazon_sales
+- fact_amazon_returns
+- fact_amazon_ads
+- fact_meta_ads
+
+### Reusable Dimensions
+- dim_date
+- dim_product
+- dim_location
+- dim_state
+- dim_campaign
+
+### Semantic Layer Features
+- Centralized KPI calculations through reusable DAX measures.
+- Dedicated measure tables for business metrics and reporting logic.
+- Time Intelligence calculations including YTD, MTD, YoY, MoM, and QoQ analysis.
+- Shared dimensions supporting cross-functional analytics.
+- Optimized relationships to support scalable reporting performance.
+
+### Additional Supporting Tables
+The semantic model also includes dedicated DAX-driven supporting tables used for:
+- Dynamic metric selection.
+- KPI switching and reporting flexibility.
+- Waterfall visual calculations.
+- Growth opportunity analysis.
+- Financial and P&L reporting frameworks.
+
+## DAX Development
+DAX was used to build a reusable semantic layer supporting KPI calculations, financial analysis, marketing performance measurement, product analytics, and executive reporting.
+
+Measures were organized into dedicated subject-area folders to improve maintainability, readability, and model scalability.
+
+### DAX Measure Groups
+- Base Metrics
+- Finance
+- Returns
+- Product Performance
+- Combined Marketing
+- Amazon Ads
+- Meta Ads
+- Time Intelligence
+- P&L Analysis
+- Insights
+
+### Implemented Analytics
+- Revenue and profitability calculations.
+- Return rate and refund analysis.
+- Marketing performance measurement.
+- Product contribution and ranking analysis.
+- Dynamic KPI selection.
+- Executive scorecards and financial reporting.
+- Time Intelligence calculations including:
+  - MTD (Month-to-Date)
+  - YTD (Year-to-Date)
+  - MoM (Month-over-Month)
+  - QoQ (Quarter-over-Quarter)
+  - YoY (Year-over-Year)
+
+### Additional DAX Objects
+The model also includes calculated tables and calculated columns used to support:
+- Waterfall chart logic.
+- Dynamic metric switching.
+- Financial reporting frameworks.
+- Growth opportunity analysis.
+- Business insight generation.
+
+### DAX Documentation
+- [Base Business Metrics](./6_power_bi/2_dax/01_base.md)
+- [Financial Performance Measures](./6_power_bi/2_dax/02_finance.md)
+- [Returns Analysis Measures](./6_power_bi/2_dax/03_returns.md)
+- [Product Performance Measures](./6_power_bi/2_dax/04_product.md)
+- [Combined Marketing Measures](./6_power_bi/2_dax/05_combined_marketing.md)
+- [Amazon Advertising Measures](./6_power_bi/2_dax/06_amazon_ads.md)
+- [Meta Advertising Measures](./6_power_bi/2_dax/07_meta_ads.md)
+- [Time Intelligence Measures](./6_power_bi/2_dax/08_time_intelligence.md)
+- [Profit & Loss (P&L) Measures](./6_power_bi/2_dax/09_pnl.md)
+- [Business Insights & Dynamic Labels](./6_power_bi/2_dax/10_insights)
+- [Calculated Tables](./6_power_bi/2_dax/11_calculated_tables)
+- [Calculated Columns](./6_power_bi/2_dax/12_calculated_columns.md)
+
+## Power BI Theme
+A custom Power BI theme was developed to ensure consistent report design, visual hierarchy, and user experience across all dashboard pages.
+
+[Theme File](./6_power_bi/3_theme/theme_json.json)
+
+## Power BI Report File
+The final reporting solution was developed in Power BI Desktop and delivered as a single interactive report.
+
+The report integrates sales, returns, marketing, product performance, profitability, and strategic planning analytics into a unified Business Intelligence solution.
+
+### Power BI Project File
+[Amazon Seller Growth Profitability Analytics](./6_power_bi/4_pbix/amazon_seller_growth_profitability_analytics.pbix)
+
