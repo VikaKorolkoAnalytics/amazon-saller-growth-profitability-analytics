@@ -352,3 +352,20 @@ The report integrates sales, returns, marketing, product performance, profitabil
 ### Power BI Project File
 [Amazon Seller Growth Profitability Analytics](./6_power_bi/4_pbix/amazon_seller_growth_profitability_analytics.pbix)
 
+## Performance & Optimization
+Performance testing and optimization were conducted to ensure efficient report execution, responsive user experience, and scalable analytical performance.
+
+### Validation Tools
+- Power BI Performance Analyzer
+- DAX Studio Server Timings
+
+### Optimization Activities
+- Validated visual query execution times.
+- Analyzed DAX query performance.
+- Evaluated storage engine and formula engine behavior.
+
+### Performance Documentation
+- [Power BI Performance Analyzer](./7_performance_validation/1_power_bi_performance_analyzer/)
+- [DAX Studio Server Timings Analysis](./7_performance_validation/2_dax_%20studio_server_timings/)
+- [Performance Summary](./7_performance_validation/performance_summary.md)
+
