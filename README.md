@@ -221,3 +221,32 @@ The solution supports incremental monthly updates without reloading the entire d
 - [SQL Staging Layer](./5_sql_scripts/1_staging/staging.md)
 - [Data Modeling & Fact Table Design](./5_sql_scripts/2_data_modeling/data_modeling.md)
 - [Incremental Load Process](./5_sql_scripts/3_incremental_load/incremental_load.md)
+
+## Hybrid Star Schema
+![Hybrid Star Schema](./5_sql_scripts/8_hybrid_star_schema_er_diagram.png)
+The model follows a Hybrid Star Schema design built to support Sales, Returns, Marketing, Product, and Financial analytics while maintaining scalable and performant reporting.
+
+The model combines traditional star schema principles with selective normalization to improve maintainability and data consistency.
+
+### Fact Tables
+- fact_amazon_sales
+- fact_amazon_returns
+- fact_amazon_ads
+- fact_meta_ads
+
+### Dimension Tables
+- dim_date
+- dim_product
+- dim_location
+- dim_state
+- dim_campaign
+
+### Hybrid Structure
+Most dimensions are directly connected to fact tables using a star schema design. Geographic data is partially normalized through a separate State and Location structure, creating a hybrid approach that improves data consistency while maintaining efficient analytical performance.
+
+### Design Benefits
+- Optimized for Power BI analytical reporting.
+- Supports scalable sales, returns, advertising, and profitability analysis.
+- Reduces data redundancy through selective normalization.
+- Maintains efficient filtering and aggregation performance.
+- Enables reusable dimensional modeling across multiple fact tables.
