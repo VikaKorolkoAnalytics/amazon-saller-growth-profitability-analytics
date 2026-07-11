@@ -172,11 +172,11 @@ Folder with Monthly CSV Files
 - Created clean staging datasets for SQL Server loading.
 
 ### Output
-Data from Amazon Sales, Amazon Ads, and Meta Ads reports was transformed in Power Query and exported as staging CSV files:
-- stg_amazon_sales
-- stg_amazon_ads
-- stg_meta_ads
+Data from Amazon Sales, Amazon Ads, and Meta Ads reports was transformed in Power Query and exported as staging staging datasets:
+- `stg_amazon_sales`
+- `stg_amazon_ads`
+- `stg_meta_ads`
 
-Additional information and access to the staging datasets are available in the [Staging data](./4_staging_data/staging_data.md)
+Additional information and access to the staging datasets are available in the [Staging data](./4_staging_data/staging_data.md).
 
 These staging datasets were subsequently loaded into SQL Server and served as the foundation for dimensional modeling, Hybrid Star Schema design, and Power BI reporting.
