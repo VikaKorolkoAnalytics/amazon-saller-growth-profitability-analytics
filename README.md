@@ -1,5 +1,40 @@
 # Amazon Seller Growth & Profitability Analytics
 
+## Table of Contents
+
+### Business & Project Overview 
+- [Project Overview](#project-overview)
+- [Business Context](#business-context)
+- [Project Objectives](#project-objectives)
+- [Business Questions Addressed](#business-questions-addressed)
+
+### Solution Architecture
+- [Solution Architecture](#solution-architecture-1)
+- [Data Sources](#data-sources)
+- [Power Query ETL](#power-query-etl)
+- [SQL Data Modeling](#sql-data-modeling)
+- [Hybrid Star Schema](#hybrid-star-schema)
+
+### Power BI Development
+- [Power BI Semantic Model](#power-bi-semantic-model)
+- [DAX Development](#dax-development)
+- [Power BI Theme](#power-bi-theme)
+- [Power BI Report File](#power-bi-report-file)
+
+### Performance & Reporting
+- [Performance & Optimization](#performance--optimization)
+- [Dashboard Pages](#dashboard-pages)
+
+### Business Outcomes
+- [Key Business Insights](#key-business-insights)
+- [Strategic Recommendations](#strategic-recommendations)
+
+### Project Summary
+- [Skills Demonstrated](#skills-demonstrated)
+- [Tools & Technologies](#tools--technologies)
+- [Repository Structure](#repository-structure)
+- [Documentation](#documentation)
+
 ## Project Overview
 This project presents an end-to-end Business Intelligence solution designed to transform raw ecommerce sales, returns, and advertising data into actionable business insights through ETL, SQL staging, Hybrid Star Schema modeling, DAX analytics, performance optimization, and Power BI Service deployment.
 
@@ -48,54 +83,6 @@ The solution was designed to answer key business questions relevant to ecommerce
 | Which products and business areas require optimization? | Identified low-performing products, high return rates, and profitability risks. |
 | Where are the biggest opportunities for future growth? | Developed SWOT analysis, growth opportunities, and strategic recommendations. |
 | How can executives monitor business performance in one place? | Built a centralized BI dashboard integrating sales, marketing, returns, product, and financial analytics. |
-
-## Skills Demonstrated
-### Data Engineering & Modeling
-- Power Query ETL
-- SQL Data Transformation
-- Data Modeling
-- Hybrid Star Schema Design
-
-### Business Intelligence & Analytics
-- Power BI Dashboard Development
-- DAX Development
-- KPI Design & Business Metrics
-- Time Intelligence (YoY, MoM, QoQ, YTD)
-- Data Visualization
-
-### Performance & Deployment
-- Performance Optimization
-- DAX Studio Validation
-- Power BI Service Deployment
-
-### Business & Strategic Analysis
-- Business Analysis
-- Profitability Analysis
-- Strategic Planning
-
-## Tools & Technologies
-### Data Sources
-- Amazon Sales CSV Exports
-- Amazon Advertising CSV Exports
-- Meta Advertising CSV Exports
-
-### Data Preparation
-- Power Query (M)
-- Microsoft Excel
-
-### Data Storage & Modeling
-- SQL Server
-- Hybrid Star Schema
-
-### Analytics & Reporting
-- Power BI Desktop
-- DAX
-- Power BI Service
-- Power BI Mobile Layouts
-
-### Performance Validation
-- Power BI Performance Analyzer
-- DAX Studio
 
 ## Solution Architecture
 [![Solution Architecture](./1_architecture/solution_archtecture.png)](./1_architecture/solution_archtecture.png)
@@ -164,6 +151,7 @@ Folder with Monthly CSV Files
              ↓ 
        Clean Dataset 
 ```
+
 ### Key Transformations
 - Standardized column names and schemas across source files.
 - Applied data type validation and conversion.
@@ -250,7 +238,7 @@ Most dimensions are directly connected to fact tables using a star schema design
 - Reduces data redundancy through selective normalization.
 - Maintains efficient filtering and aggregation performance.
 - Enables reusable dimensional modeling across multiple fact tables.
-  
+
 ## Power BI Semantic Model
 ![Power BI Semantic Model](./6_power_bi/1_semantic_model/semantic_model.png)
 
@@ -349,8 +337,10 @@ The final reporting solution was developed in Power BI Desktop and delivered as 
 
 The report integrates sales, returns, marketing, product performance, profitability, and strategic planning analytics into a unified Business Intelligence solution.
 
+A dedicated mobile layout was created for all report pages to support viewing on smartphones and tablets. Large detail tables were intentionally excluded to improve readability and user experience on smaller screens.
+
 ### Power BI Project File
-[Amazon Seller Growth Profitability Analytics](./6_power_bi/4_pbix/amazon_seller_growth_profitability_analytics.pbix)
+[Amazon Seller Growth Profitability Analytics.pbix](./6_power_bi/4_pbix/amazon_seller_growth_profitability_analytics.pbix)
 
 ## Performance & Optimization
 Performance testing and optimization were conducted to ensure efficient report execution, responsive user experience, and scalable analytical performance.
@@ -415,3 +405,112 @@ Analyzes business performance using Time Intelligence calculations, including:
 ### Planning & Growth Strategy
 ![Planning & Strategy](./8_power_bi_service/report_pages/8_planning_strategy.png)
 Presents SWOT analysis, key business insights, growth opportunities, and strategic recommendations derived from the analytical findings.
+
+## Key Business Insights
+### Business Growth
+- Gross Revenue increased by **38.7% YoY** in FY2025.
+- Revenue consistently outperformed the prior-year trajectory across most reporting periods.
+- Business performance remained highly dependent on strong Q4 demand.
+
+### Profitability
+- Operating Margin remained healthy at **37.2%** across FY2024–FY2025.
+- Operating Margin declined after April 2025 due to rising product costs (COGS).
+
+### Product Performance
+- Revenue and profitability were concentrated among a limited number of top-performing product colors.
+- Several product segments demonstrated weaker contribution and profitability performance.
+
+### Returns Management
+- Return Rate exceeded **7%** during multiple FY2025 periods.
+- Returns represented a significant source of profitability erosion.
+
+### Marketing Performance
+- Advertising spend was concentrated in Amazon Ads, while Meta Ads delivered higher CTR with significantly lower investment.
+- TACoS remained low throughout the analyzed period, indicating advertising costs represented a relatively small share of total sales.
+
+## Strategic Recommendations
+Based on historical performance and profitability analysis, the following opportunities were identified:
+
+### High Priority
+- Reduce return rates by investigating root causes and implementing targeted corrective actions.
+- Protect Operating Margin through active monitoring of product costs, pricing, and inventory decisions.
+- Improve inventory planning by aligning stock levels with seasonal demand patterns and Q4 peaks.
+
+### Medium Priority
+- Reallocate advertising budgets toward higher-performing products and top revenue-generating states.
+- Expand geographic reach beyond the current top-performing states to diversify revenue sources.
+
+### Long-Term Actions
+- Optimize low-performing product segments through portfolio review and SKU rationalization.
+- Continue monitoring the relationship between advertising investment, TACoS, and business profitability to improve future budget allocation decisions.
+
+## Skills Demonstrated
+### Data Engineering & Modeling
+- Power Query ETL
+- SQL Data Transformation
+- Data Modeling
+- Hybrid Star Schema Design
+
+### Business Intelligence & Analytics
+- Power BI Dashboard Development
+- DAX Development
+- KPI Design & Business Metrics
+- Time Intelligence (YoY, MoM, QoQ, YTD)
+- Data Visualization
+
+### Performance & Deployment
+- Performance Optimization
+- DAX Studio Validation
+- Power BI Service Deployment
+
+### Business & Strategic Analysis
+- Business Analysis
+- Profitability Analysis
+- Strategic Planning
+
+## Tools & Technologies
+### Data Sources
+- Amazon Sales CSV Exports
+- Amazon Advertising CSV Exports
+- Meta Advertising CSV Exports
+
+### Data Preparation
+- Power Query (M)
+- Microsoft Excel
+
+### Data Storage & Modeling
+- SQL Server
+- Hybrid Star Schema
+
+### Analytics & Reporting
+- Power BI Desktop
+- DAX
+- Power BI Service
+- Power BI Mobile Layouts
+
+### Performance Validation
+- Power BI Performance Analyzer
+- DAX Studio
+## Repository Structure
+```text
+amazon-seller-growth-profitability-analytics
+│
+├── 1_architecture
+├── 2_sample_raw_data
+├── 3_power_query
+├── 4_staging_data
+├── 5_sql_scripts
+├── 6_power_bi
+├── 7_performance_validation
+├── 8_power_bi_service
+└── docs
+```
+## Documentation
+[Data Dictionary](./9_docs/data_dictionary.md)
+
+[KPI Documentation](./9_docs/kpi_definitions.md)
+
+
+
+
+
