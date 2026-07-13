@@ -11,10 +11,10 @@
 - [Business Questions Addressed](#-business-questions-addressed)
 
 ### Solution Architecture
-- [Solution Architecture](#-solution-architecture-1)
+- [Solution Architecture](#️-solution-architecture)
 - [Data Sources](#-data-sources)
 - [Power Query ETL](#-power-query-etl)
-- [SQL Data Modeling](#-sql-data-modeling)
+- [SQL Data Modeling](#️-sql-data-modeling)
 - [Hybrid Star Schema](#-hybrid-star-schema)
 
 ### Power BI Development
@@ -33,8 +33,8 @@
 
 ### Project Summary
 - [Skills Demonstrated](#-skills-demonstrated)
-- [Tools & Technologies](#-tools--technologies)
-- [Repository Structure](#repository-structure)
+- [Tools & Technologies](#️-tools--technologies)
+- [Repository Structure](#-repository-structure)
 - [Documentation](#-documentation)
 
 ## 🧭 Project Overview
