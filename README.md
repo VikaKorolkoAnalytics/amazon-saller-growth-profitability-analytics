@@ -501,6 +501,10 @@ Based on historical performance and profitability analysis, the following opport
 ```text
 amazon-seller-growth-profitability-analytics
 │
+├── README.md
+├── project_summary.md
+├── LICENSE
+│
 ├── 1_architecture
 ├── 2_sample_raw_data
 ├── 3_power_query
@@ -511,6 +515,7 @@ amazon-seller-growth-profitability-analytics
 ├── 8_power_bi_service
 └── docs
 ```
+
 ## 📚 Documentation
 [Data Dictionary](./9_docs/data_dictionary.md)
 
