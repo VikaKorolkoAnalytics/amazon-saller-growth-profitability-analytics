@@ -1,53 +1,55 @@
-# Amazon Seller Growth & Profitability Analytics
+#  🚀 Amazon Seller Growth & Profitability Analytics
 
-## Table of Contents
+## [🧾 PROJECT SUMMARY](./project_summary.md)
+
+## 📌 Table of Contents
 
 ### Business & Project Overview 
-- [Project Overview](#project-overview)
-- [Business Context](#business-context)
-- [Project Objectives](#project-objectives)
-- [Business Questions Addressed](#business-questions-addressed)
+- [Project Overview](#-project-overview)
+- [Business Context](#-business-context)
+- [Project Objectives](#-project-objectives)
+- [Business Questions Addressed](#-business-questions-addressed)
 
 ### Solution Architecture
-- [Solution Architecture](#solution-architecture-1)
-- [Data Sources](#data-sources)
-- [Power Query ETL](#power-query-etl)
-- [SQL Data Modeling](#sql-data-modeling)
-- [Hybrid Star Schema](#hybrid-star-schema)
+- [Solution Architecture](#-solution-architecture-1)
+- [Data Sources](#-data-sources)
+- [Power Query ETL](#-power-query-etl)
+- [SQL Data Modeling](#-sql-data-modeling)
+- [Hybrid Star Schema](#-hybrid-star-schema)
 
 ### Power BI Development
-- [Power BI Semantic Model](#power-bi-semantic-model)
-- [DAX Development](#dax-development)
-- [Power BI Theme](#power-bi-theme)
-- [Power BI Report File](#power-bi-report-file)
+- [Power BI Semantic Model](#-power-bi-semantic-model)
+- [DAX Development](#-dax-development)
+- [Power BI Theme](#-power-bi-theme)
+- [Power BI Report File](#-power-bi-report-file)
 
 ### Performance & Reporting
-- [Performance & Optimization](#performance--optimization)
-- [Dashboard Pages](#dashboard-pages)
+- [Performance & Optimization](#-performance--optimization)
+- [Dashboard Pages](#-dashboard-pages)
 
 ### Business Outcomes
-- [Key Business Insights](#key-business-insights)
-- [Strategic Recommendations](#strategic-recommendations)
+- [Key Business Insights](#-key-business-insights)
+- [Strategic Recommendations](#-strategic-recommendations)
 
 ### Project Summary
-- [Skills Demonstrated](#skills-demonstrated)
-- [Tools & Technologies](#tools--technologies)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Tools & Technologies](#-tools--technologies)
 - [Repository Structure](#repository-structure)
-- [Documentation](#documentation)
+- [Documentation](#-documentation)
 
-## Project Overview
+## 🧭 Project Overview
 This project presents an end-to-end Business Intelligence solution designed to transform raw ecommerce sales, returns, and advertising data into actionable business insights through ETL, SQL staging, Hybrid Star Schema modeling, DAX analytics, performance optimization, and Power BI Service deployment.
 
 The solution analyzes sales performance, profitability, marketing efficiency, product performance, return management, and strategic growth opportunities across FY2024–FY2025.
 
-## Business Context
+## 🏢 Business Context
 An Amazon-based ecommerce business generated sales, returns, and advertising data across multiple operational systems and exports.
 
 The business lacked a centralized reporting solution, making it difficult to obtain a complete view of sales performance, profitability, marketing efficiency, product performance, and return activity.
 
 To support data-driven decision-making, the business required a unified analytics platform capable of consolidating data from multiple sources and providing both operational and strategic insights using FY2024–FY2025 data.
 
-## Project Objectives
+## 🎯 Project Objectives
 The objective of this project was to design and develop an end-to-end Business Intelligence solution that transforms raw ecommerce data into actionable business insights.
 
 ### Business Focus Areas
@@ -70,7 +72,7 @@ The objective of this project was to design and develop an end-to-end Business I
 - Analyze business trends using YoY, MoM, QoQ, and YTD calculations.
 - Deliver strategic insights and recommendations to support business growth and profitability.
 
-## Business Questions Addressed
+## ❓ Business Questions Addressed
 The solution was designed to answer key business questions relevant to ecommerce performance, profitability, and growth.
 
 | Business Question | Solution |
@@ -84,7 +86,7 @@ The solution was designed to answer key business questions relevant to ecommerce
 | Where are the biggest opportunities for future growth? | Developed SWOT analysis, growth opportunities, and strategic recommendations. |
 | How can executives monitor business performance in one place? | Built a centralized BI dashboard integrating sales, marketing, returns, product, and financial analytics. |
 
-## Solution Architecture
+## 🏗️ Solution Architecture
 [![Solution Architecture](./1_architecture/solution_archtecture.png)](./1_architecture/solution_archtecture.png)
 The following diagram illustrates the end-to-end data pipeline, from raw data ingestion through ETL, SQL modeling, analytical reporting, and Power BI Service deployment.
 
@@ -95,7 +97,7 @@ The following diagram illustrates the end-to-end data pipeline, from raw data in
 - Power BI Semantic Model contains reusable DAX measures, KPI calculations, and Time Intelligence logic.
 - Report deployed to Power BI Service using Import Mode.
 
-## Data Sources
+## 📂 Data Sources
 The solution integrates data from multiple ecommerce data sources:
 - Amazon Sales exports
 - Amazon Advertising exports
@@ -110,7 +112,7 @@ Raw files are provided for educational and portfolio purposes. Brand-specific id
 
 Additional source files are available via [Google Drive]( https://drive.google.com/drive/folders/1AND9cY_Zr5OKwUMH2Q_f9Ml89IDLZYZD?usp=sharing)
 
-## Power Query ETL
+## 🔄 Power Query ETL
 Power Query was used to automate data ingestion, cleansing, and transformation before loading data into the SQL staging layer.
 
 Each source system (Amazon Sales, Amazon Ads, and Meta Ads) was ingested and transformed independently, ensuring consistent schemas, reliable downstream processing, and clear separation of business logic.
@@ -169,7 +171,7 @@ Additional information and access to the staging datasets are available in the [
 
 These staging datasets were subsequently loaded into SQL Server and served as the foundation for dimensional modeling, Hybrid Star Schema design, and Power BI reporting.
 
-## SQL Data Modeling
+## 🗄️ SQL Data Modeling
 SQL Server was used to implement the staging layer, dimensional model, fact tables, and incremental loading process.
 
 ### SQL Workflow
@@ -210,7 +212,7 @@ The solution supports incremental monthly updates without reloading the entire d
 - [Data Modeling & Fact Table Design](./5_sql_scripts/2_data_modeling/data_modeling.md)
 - [Incremental Load Process](./5_sql_scripts/3_incremental_load/incremental_load.md)
 
-## Hybrid Star Schema
+## ⭐ Hybrid Star Schema
 ![Hybrid Star Schema](./5_sql_scripts/8_hybrid_star_schema_er_diagram.png)
 The model follows a Hybrid Star Schema design built to support Sales, Returns, Marketing, Product, and Financial analytics while maintaining scalable and performant reporting.
 
@@ -239,7 +241,7 @@ Most dimensions are directly connected to fact tables using a star schema design
 - Maintains efficient filtering and aggregation performance.
 - Enables reusable dimensional modeling across multiple fact tables.
 
-## Power BI Semantic Model
+## 🧠 Power BI Semantic Model
 ![Power BI Semantic Model](./6_power_bi/1_semantic_model/semantic_model.png)
 
 The final semantic model was implemented in Power BI Desktop using a Hybrid Star Schema design with reusable dimension tables and centralized business logic.
@@ -274,7 +276,7 @@ The semantic model also includes dedicated DAX-driven supporting tables used for
 - Growth opportunity analysis.
 - Financial and P&L reporting frameworks.
 
-## DAX Development
+## 📐 DAX Development
 DAX was used to build a reusable semantic layer supporting KPI calculations, financial analysis, marketing performance measurement, product analytics, and executive reporting.
 
 Measures were organized into dedicated subject-area folders to improve maintainability, readability, and model scalability.
@@ -327,22 +329,25 @@ The model also includes calculated tables and calculated columns used to support
 - [Calculated Tables](./6_power_bi/2_dax/11_calculated_tables.md)
 - [Calculated Columns](./6_power_bi/2_dax/12_calculated_columns.md)
 
-## Power BI Theme
+## 🎨 Power BI Theme
 A custom Power BI theme was developed to ensure consistent report design, visual hierarchy, and user experience across all dashboard pages.
 
 [Theme File](./6_power_bi/3_theme/theme_json.json)
 
-## Power BI Report File
+## 📁 Power BI Report File
 The final reporting solution was developed in Power BI Desktop and delivered as a single interactive report.
 
 The report integrates sales, returns, marketing, product performance, profitability, and strategic planning analytics into a unified Business Intelligence solution.
 
 A dedicated mobile layout was created for all report pages to support viewing on smartphones and tablets. Large detail tables were intentionally excluded to improve readability and user experience on smaller screens.
 
+### Prerequisites
+To view and interact with the dashboard locally, install: [Microsoft Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)
+
 ### Power BI Project File
 [Amazon Seller Growth Profitability Analytics.pbix](./6_power_bi/4_pbix/amazon_seller_growth_profitability_analytics.pbix)
 
-## Performance & Optimization
+## ⚡ Performance & Optimization
 Performance testing and optimization were conducted to ensure efficient report execution, responsive user experience, and scalable analytical performance.
 
 ### Validation Tools
@@ -359,7 +364,7 @@ Performance testing and optimization were conducted to ensure efficient report e
 - [DAX Studio Server Timings Analysis](./7_performance_validation/2_dax_%20studio_server_timings/)
 - [Performance Summary](./7_performance_validation/performance_summary.md)
 
-## Dashboard Pages
+## 📊 Dashboard Pages
 The Power BI solution consists of multiple analytical pages designed to support operational monitoring, financial analysis, marketing performance evaluation, and strategic decision-making.
 
 ### Executive Overview
@@ -406,7 +411,7 @@ Analyzes business performance using Time Intelligence calculations, including:
 ![Planning & Strategy](./8_power_bi_service/report_pages/8_planning_strategy.png)
 Presents SWOT analysis, key business insights, growth opportunities, and strategic recommendations derived from the analytical findings.
 
-## Key Business Insights
+## 💡 Key Business Insights
 ### Business Growth
 - Gross Revenue increased by **38.7% YoY** in FY2025.
 - Revenue consistently outperformed the prior-year trajectory across most reporting periods.
@@ -428,7 +433,7 @@ Presents SWOT analysis, key business insights, growth opportunities, and strateg
 - Advertising spend was concentrated in Amazon Ads, while Meta Ads delivered higher CTR with significantly lower investment.
 - TACoS remained low throughout the analyzed period, indicating advertising costs represented a relatively small share of total sales.
 
-## Strategic Recommendations
+## 📈 Strategic Recommendations
 Based on historical performance and profitability analysis, the following opportunities were identified:
 
 ### High Priority
@@ -444,7 +449,7 @@ Based on historical performance and profitability analysis, the following opport
 - Optimize low-performing product segments through portfolio review and SKU rationalization.
 - Continue monitoring the relationship between advertising investment, TACoS, and business profitability to improve future budget allocation decisions.
 
-## Skills Demonstrated
+## 🧰 Skills Demonstrated
 ### Data Engineering & Modeling
 - Power Query ETL
 - SQL Data Transformation
@@ -468,7 +473,7 @@ Based on historical performance and profitability analysis, the following opport
 - Profitability Analysis
 - Strategic Planning
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 ### Data Sources
 - Amazon Sales CSV Exports
 - Amazon Advertising CSV Exports
@@ -491,7 +496,8 @@ Based on historical performance and profitability analysis, the following opport
 ### Performance Validation
 - Power BI Performance Analyzer
 - DAX Studio
-## Repository Structure
+  
+## 📁 Repository Structure
 ```text
 amazon-seller-growth-profitability-analytics
 │
@@ -505,10 +511,12 @@ amazon-seller-growth-profitability-analytics
 ├── 8_power_bi_service
 └── docs
 ```
-## Documentation
+## 📚 Documentation
 [Data Dictionary](./9_docs/data_dictionary.md)
 
 [KPI Documentation](./9_docs/kpi_definitions.md)
+
+
 
 
 
